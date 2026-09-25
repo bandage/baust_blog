@@ -16,9 +16,10 @@ theme = 'hugo-bearcub'
     weight = 1    
 
 [[menu.main]]
-    name = "Now"
-    url = "/now/"
-    weight = 2
+    name = "Projects"
+    url = "/projects/"
+    weight = 2   
+
 
 [[menu.main]]
     name = "Links"

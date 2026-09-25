@@ -6,10 +6,10 @@ title = 'About'
 
 Hi, I'm Andrew, and this is a little space that I maintain online.
 
-I'm interested in lots of things, and they generally have a whiff of nerd around them.
+I'm interested in lots of things, and try to give things a go before i really know what i'm doing.
 
-At home I'm a father, husband, climber, project starter, sock dropper, inconsistent runner, Beaver leader, Dungeon Master, Woodworker, Ratmog owner, wargamer, model maker and mess maker.
+At home I'm dad, husband, project starter, mountain lover, sock dropper, inconsistent runner, Beaver leader, Dungeon Master, Woodworker, 3d print attempter, Ratmog owner, wargamer, modeller and mess maker.
 
-At work I'm a BI Manager, data geek, warehouse wrangler,  dashboarder, migration surivor, SQL writer, pipeline builder, stakeholder juggler and might often be heard saying "have you tired refreshing it?"
+At work I'm a BI Manager, project juggler, data wrangler,  data visualiser, migration surivor, SQL writer, pipeline builder, might often be heard saying "have you tired refreshing it yet?"
 
 You can reach me at hello@baust.me
